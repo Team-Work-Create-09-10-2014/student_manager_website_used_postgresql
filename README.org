@@ -1,0 +1,21 @@
+Student manager website used Postgre SQL -*- mode: org -*-
+#+STARTUP: overview
+#+STARTUP: oddeven
+#+STARTUP: hidestars
+* Chào mừng các bạn đến với bài tập nhóm của chúng tôi!
+** Bài tập nhóm của chúng tôi.
+   Chúng tôi xây dựng một website để quản lí sinh viên của một trường đại học.
+   Website này sử dụng hệ quản trị cơ sở mã nguồn mở là: Postgre SQL.
+** Những người tham gia vào bài tập lớn của nhóm.
+*** Thầy giáo Nguyễn Hồng Phương
+    Thầy là giảng viên hướng dẫn, giúp đỡ nhóm trong suốt quá trình nhóm hòan thành bài tập nhóm.
+*** Nhóm sinh viên:
+**** Hòang Anh Tuấn
+     Mã số sinh viên: 20122673
+**** Bùi Lan Ngọc
+     Mã số sinh viên: 20122155
+**** Chu Minh Đức
+     Mã số sinh viên: 20121542
+**** Đào Duy Nhẫn ( đại diện nhóm)
+     Mã số sinh viên: 20111939    
+     
